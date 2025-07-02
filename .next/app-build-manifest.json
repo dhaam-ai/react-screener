@@ -1,0 +1,43 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-9682978e3e09731c.js",
+      "static/chunks/4bd1b696-10c111a14d7b5760.js",
+      "static/chunks/517-2752db2ef7fcfb60.js",
+      "static/chunks/main-app-1adcdc630e8a041d.js",
+      "static/chunks/app/_not-found/page-6d0e5809a2136d94.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-9682978e3e09731c.js",
+      "static/chunks/4bd1b696-10c111a14d7b5760.js",
+      "static/chunks/517-2752db2ef7fcfb60.js",
+      "static/chunks/main-app-1adcdc630e8a041d.js",
+      "static/css/931b179cff3131dc.css",
+      "static/chunks/app/layout-b8ce6a50ed0c3bb6.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-9682978e3e09731c.js",
+      "static/chunks/4bd1b696-10c111a14d7b5760.js",
+      "static/chunks/517-2752db2ef7fcfb60.js",
+      "static/chunks/main-app-1adcdc630e8a041d.js",
+      "static/chunks/981-d8f9cd02dd183f6a.js",
+      "static/chunks/app/page-ecb6be779feb6575.js"
+    ],
+    "/question/[id]/page": [
+      "static/chunks/webpack-9682978e3e09731c.js",
+      "static/chunks/4bd1b696-10c111a14d7b5760.js",
+      "static/chunks/517-2752db2ef7fcfb60.js",
+      "static/chunks/main-app-1adcdc630e8a041d.js",
+      "static/chunks/981-d8f9cd02dd183f6a.js",
+      "static/chunks/app/question/[id]/page-a8f27dc51f832383.js"
+    ],
+    "/success/page": [
+      "static/chunks/webpack-9682978e3e09731c.js",
+      "static/chunks/4bd1b696-10c111a14d7b5760.js",
+      "static/chunks/517-2752db2ef7fcfb60.js",
+      "static/chunks/main-app-1adcdc630e8a041d.js",
+      "static/chunks/981-d8f9cd02dd183f6a.js",
+      "static/chunks/app/success/page-2b542fd3f92e4f04.js"
+    ]
+  }
+}
